@@ -102,11 +102,5 @@ xgboost
 
 ## 🙌 Contributors
 
-- **Your Name** – Model development & visualization  
-- [Optionally list team members]
+- **Nimish** – Model development & visualization  
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
