@@ -25,7 +25,6 @@ This project focuses on predicting student placement outcomes based on historica
   - Precision, Recall, and F1 comparison
   - Confusion matrices
   - Neural Network loss curve
-- Label encoding mappings are saved to JSON for reuse
 
 ---
 
@@ -59,13 +58,11 @@ Placement_Prediction/
 
 | Model         | Train Acc | Test Acc | Precision | Recall | F1 Score |
 |---------------|-----------|----------|-----------|--------|----------|
-| Naive Bayes   | 0.84      | 0.81     | 0.82      | 0.81   | 0.81     |
-| Decision Tree | 1.00      | 0.87     | 0.88      | 0.87   | 0.87     |
-| Random Forest | 0.99      | 0.90     | 0.91      | 0.90   | 0.90     |
-| XGBoost       | 0.98      | 0.91     | 0.92      | 0.91   | 0.91     |
-| MLPClassifier | 0.93      | 0.89     | 0.89      | 0.89   | 0.89     |
-
-> 📌 *Values shown are just for representation. Please replace with actual results.*
+| Naive Bayes   | 0.90      | 0.90     | 0.90      | 0.90   | 0.90     |
+| Decision Tree | 0.88      | 0.88     | 0.94      | 0.88   | 0.85     |
+| Random Forest | 0.99      | 0.99     | 0.99      | 0.99   | 0.99     |
+| XGBoost       | 1.00      | 1.00     | 1.00      | 1.00   | 1.00     |
+| MLPClassifier | 0.33      | 0.33     | 0.11      | 0.33   | 0.17     |
 
 ---
 
